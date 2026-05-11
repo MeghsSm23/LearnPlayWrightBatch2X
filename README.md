@@ -16,6 +16,10 @@ This repository contains learning materials for Playwright automation testing, f
 - `chapter_02_JavaScript_Concepts/`: JavaScript fundamentals
   - `05_JS_Basics.js`: Basic variable declarations
   - `06_Identifier_Rules.js`: Identifier naming rules
+  - `15_let_functionscope.js`: Let keyword and function scope examples
+  - `04_JavaScript_Concepts/`: Advanced JavaScript concepts
+    - `15_Hoisting.js`: Variable hoisting demonstration
+    - `16_Hoisting_functionscope.js`: Hoisting with function scope
 
 - `chapter_03_Identifier_literals/`: Advanced JavaScript topics
   - `06_Identifier_Rules.js`: Identifier rules (duplicate?)
@@ -24,6 +28,8 @@ This repository contains learning materials for Playwright automation testing, f
   - `09_Comments.js`: Comment examples
   - `10_JS_Shortcuts.js`: JavaScript shorthand patterns
   - `VS_Code_Keyboad_Shortcuts_Win.md`: Visual Studio Code shortcuts for Windows
+
+- `LearnPlayWright/`: Playwright-specific learning materials
 
 ## How to Run
 
