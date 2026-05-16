@@ -20,9 +20,14 @@ This repository contains learning materials for Playwright automation testing, f
   - `04_JavaScript_Concepts/`: Advanced JavaScript concepts
     - `15_Hoisting.js`: Variable hoisting demonstration
     - `16_Hoisting_functionscope.js`: Hoisting with function scope
+    - `17_Let_Hoisting.js`: Let hoisting examples
+    - `18_Let_Hoisting_Block.js`: Block scope with `let`
+    - `19_Let_Const_.js`: `let` and `const` examples
+    - `20_Junior_QA.js`: Junior QA practice questions
+    - `Chapter_05_Literrals/`: Literal value examples
 
 - `chapter_03_Identifier_literals/`: Advanced JavaScript topics
-  - `06_Identifier_Rules.js`: Identifier rules (duplicate?)
+  - `06_Identifier_Rules.js`: Identifier rules
   - `07_JS_All_Examples.js`: Combined examples
   - `08_Identifier_Part2.js`: Identifier casing examples
   - `09_Comments.js`: Comment examples
@@ -30,6 +35,9 @@ This repository contains learning materials for Playwright automation testing, f
   - `VS_Code_Keyboad_Shortcuts_Win.md`: Visual Studio Code shortcuts for Windows
 
 - `LearnPlayWright/`: Playwright-specific learning materials
+  - `chapter_01_Basics/`: Playwright basic examples
+  - `chapter_06_Operator/`: Operator and nullish examples
+    - `44_Null_Ops.js`: Nullish and operator behavior examples
 
 ## How to Run
 
