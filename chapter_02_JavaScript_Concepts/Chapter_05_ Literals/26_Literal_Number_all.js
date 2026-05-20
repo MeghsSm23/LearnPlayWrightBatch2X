@@ -41,3 +41,14 @@ console.log("typeof bigInt:", typeof bigInt);  // "bigint"
 // - JavaScript has one main numeric type called Number, which handles both integers and floats.
 // - BigInt is a separate type for very large integer values.
 // - Use binary, octal, and hexadecimal literals when working with low-level values, bit masks, or colors.
+
+
+//*What is a base?
+//*In number systems, the base (or radix) is the number of unique digits used to represent numbers.
+
+//*Base 10 means decimal: digits 0–9
+//*Base 2 means binary: digits 0–1
+//*Base 8 means octal: digits 0–7
+//*Base 16 means hexadecimal: digits 0–F
+//*So the base tells you how many symbols are available per digit position.
+

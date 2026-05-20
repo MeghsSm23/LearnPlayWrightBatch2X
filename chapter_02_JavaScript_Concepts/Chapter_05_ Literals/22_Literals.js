@@ -7,6 +7,10 @@ let name = 'John Doe'; // String literal
 let nullValue = null; // Null literal
 let undefinedValue; // Undefined literal (implicitly assigned)
 
+
+//typeof operator is used to determine the type of a variable or value
+//  in JavaScript. It returns a string indicating the type of the operand.
+//  Here are some examples:
 console.log(typeof age); // "string"
 console.log(typeof isStudent);      // "boolean"
 console.log(typeof person);     // "object"                                 
