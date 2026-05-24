@@ -1,0 +1,34 @@
+//switch statement      
+
+
+//Switch statement is a control flow statement that allows you to execute different 
+// blocks of code based on the value of a variable or expression. It is often used 
+// as an alternative to multiple if-else statements when you have a limited number of 
+// possible values to check against.
+//break is important to prevent fall through in switch cases. If you omit the break statement,
+//the code will continue to execute the next case(s) until it encounters a break
+//  or the end of the switch statement. This can lead to unintended behavior if not used correctly.    
+let dayOfWeek = 3;
+switch (dayOfWeek) {
+    case 1: console.log("Monday");
+        break;
+    case 2: console.log("Tuesday");
+        break;
+    case 3: console.log("Wednesday");
+        break;
+    case 4: console.log("Thursday");
+        break;
+    case 5: console.log("Friday");
+        break;
+    case 6: console.log("Saturday");
+        break;
+    case 7: console.log("Sunday");
+        break;
+    default: console.log("Invalid day of the week");
+        break;
+}
+
+
+
+
+
