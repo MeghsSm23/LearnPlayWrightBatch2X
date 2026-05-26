@@ -5,6 +5,7 @@ let isAccountLocked = true;
 
 
 // logical operartors: && (AND), || (OR), ! (NOT) + if else statement
+
 if ((username === "Dev" && password === "1234") && !isAccountLocked) {
     console.log("You are Allowed to Enter.");
 } else {

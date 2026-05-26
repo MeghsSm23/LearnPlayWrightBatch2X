@@ -5,8 +5,8 @@
 //  }
 
 
-let n = 1;
-do {
-    console.log(n);
+// let n = 1;
+// do {
+//     console.log(n);
 
-} while (n < 3);    
+// } while (n < 3);    
