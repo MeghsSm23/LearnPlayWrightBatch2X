@@ -1,0 +1,7 @@
+function goToRelatives() {
+    console.log("Hi");
+    return "Hello";
+}
+
+let relative = goToRelatives();
+console.log(relative);
